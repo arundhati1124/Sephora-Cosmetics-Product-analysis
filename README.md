@@ -1,4 +1,4 @@
-# Sephora Cosmetics Intelligence Platform (Mid-Level Version)
+# Sephora Cosmetics Intelligence Platform 
 
 A portfolio-ready machine learning project that turns Sephora product and review data into product health insights.
 
